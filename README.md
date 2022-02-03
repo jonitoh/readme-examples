@@ -70,8 +70,6 @@ README available in:
 
 # <a id="philosophy">🌱&nbsp;</a> About the project
 
-*In this section, explain your philosophy to the genese of the project !*
-
 It is undeniable that documentation is a valid part of a good project. It helps others who might be interessed but also the ones who contribute adding more clarity and structure.
 
 There are so many great README over the internet let alone GitHub. However, I decided to create my onw custom template so that I can kickstart my project easily with my standards.
@@ -86,8 +84,6 @@ There are so many great README over the internet let alone GitHub. However, I de
 
 # <a id="tech">👨‍💻&nbsp;</a> Tech stack
 
-*In this section, list only the main technologies that the project use.*
-
 For this README template creation, there is no really specific technology except [Markdown](https://en.wikipedia.org/wiki/Markdown).
 
 <!-- back to top -->
@@ -99,13 +95,9 @@ For this README template creation, there is no really specific technology except
 
 # <a id="usage">📖&nbsp;</a> Usage
 
-*This section is here to help anyone smoothly install and use the project.*
-
 <br/>
 
 ## 🚀&nbsp; Getting started
-
-*Here are the instructions on setting up the project whether it's locally or on remote. You can add a link to a detailed documentation.*
 
 It's pretty simple to use it. Just clone the repo and it's all yours !!!
 
@@ -113,13 +105,9 @@ You can use the file `README-BLANK.md` to get started. It has the minimal struct
 
 ## ⚙️&nbsp; Requirements
 
-*In this section, you can list any packages, third parties softwares or middlewares that you might judge relevant.*
-
 No specific requirements. 
 
 ## 👀&nbsp; Examples
-
-*Show useful examples of the project with additional screenshots, code examples and demos if possible.*
 
 This README is an example of what my template can create.
 
@@ -133,14 +121,13 @@ This README is an example of what my template can create.
 
 # <a id="features">🎯&nbsp;</a> Features
 
-*Shortly list all the features: the completed ones and the ones in progress*
 
 - [x] Add Emoji
 - [x] Add back to top links
 - [ ] Add relevant gifs for this README
 - [x] Multi-language Support
-    - [ ] French
-    - [ ] English
+    - [x] French
+    - [x] English
 
 <!-- back to top -->
 <p align="right">
@@ -151,8 +138,6 @@ This README is an example of what my template can create.
 
 
 # <a id="limits">⚠️&nbsp;</a> Limitations
-
-*Explain and list the possible limitations you encounter with your project.*
 
 - For now, the README is not too specific.
 
@@ -165,10 +150,6 @@ This README is an example of what my template can create.
 
 
 # <a id="contribs">🤝&nbsp;</a> Contributions
-
-*This section is here to smooth the process of anyone who would like to contribute.*
-
-contributing or community or found a bug / missing a specific feature ? contact Spread the word!
 
 **Thanks in advance for anyone who will contribute to expanding this template!**
 
@@ -190,7 +171,6 @@ If you have any suggestion, please proceed by forking this repo and creating a p
 
 # <a id="license">📘&nbsp;</a> License
 
-*Even if this section might seem an unecessary addition since a license badge is generated, it is always good to remember it again. You can also explain your choice for this license here.*
 
 This project is released under the terms of the [MIT License](LICENSE).
 
@@ -204,9 +184,8 @@ This project is released under the terms of the [MIT License](LICENSE).
 
 # <a id="acknowledgments">❤️&nbsp;</a> Acknowledgments
 
-*Use this space to list resources you find helpful and would like to give credits to!*
 
-Here are the nominees, with no particular order, in the category for ***best resources used for this project***:
+🏆 Here are the nominees, with no particular order, in the category for ***best resources used for this project***:
 
 * [How to Add Badges to a GitHub Repository](https://betterprogramming.pub/add-badges-to-a-github-repository-716d2988dc6a)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -214,7 +193,7 @@ Here are the nominees, with no particular order, in the category for ***best res
 * [HTML code generator](https://www.html-code-generator.com/svg/country-flags) for the flag
 * [SVG Repo](https://www.svgrepo.com/) for the icons used here aka the logo and the back to top icon.
 * [Awesome README](https://github.com/matiassingers/awesome-readme): a curated list of awesome READMEs!
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template): another README templateyou can check it out.
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template): another README template you can check it out.
 * [Fiber](https://github.com/gofiber/fiber) for their multilingual README.
 
 <!-- back to the top -->
@@ -225,8 +204,6 @@ Here are the nominees, with no particular order, in the category for ***best res
 </p>
 
 # <a id="encore">👀&nbsp;</a> What else ? 
-
-*An optional section to add one last thing before ending this amazing README.*
 
 Thanks again for reading this README !!!
 
