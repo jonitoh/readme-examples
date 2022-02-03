@@ -33,7 +33,7 @@ README disponible en:
 ![GitHub all releases](https://img.shields.io/github/downloads/jonitoh/readme-examples/total)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/jonitoh/readme-examples)
 [![GitHub license](https://img.shields.io/github/license/jonitoh/readme-examples)](LICENSE)
-[![LinkedIn link](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ninsemou-jordan-toh-a14434108/?locale=en_US)
+[![LinkedIn link](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ninsemou-jordan-toh-a14434108/)
 
 <!-- tagline or short introduction -->
 <br/>
